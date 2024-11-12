@@ -1,6 +1,6 @@
 # Lumina - AI-Powered Learning Companion
 
-![Lumina](https://your-banner-image-url.png)
+![Screenshot 2024-11-12 230727](https://github.com/user-attachments/assets/a76b5bcf-091a-4471-bad2-260695f35158)
 
 Lumina is an intelligent learning platform that transforms how students and researchers organize, understand, and retain knowledge. By combining advanced AI capabilities with intuitive study tools, Lumina creates a personalized learning experience that adapts to your unique needs.
 
